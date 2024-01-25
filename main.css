@@ -1,0 +1,12 @@
+header{
+    height: 250px;
+    background-color: #1e95f7;
+    border-radius: 10px;
+}
+main{
+    min-height: 800px;
+}
+footer{
+    background-color: #c7bcbc;
+    height: 60px;
+}
